@@ -24,7 +24,7 @@ console.log("Screen Width: " + screenWidth + " pixels");
 
 
 function removeElement() {
-  if(window.innerWidth <= 770) {
+  if(window.innerWidth <= 900) {
     spanLineLeftElement.style.display = 'none'
     spanLineRightElement.style.display = 'none';
     navBarElement.style.display = 'none';
