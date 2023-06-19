@@ -7,7 +7,7 @@ const navBarElement = document.querySelector('.nav-bar');
 const hamburgerElement = document.querySelector('.hamburger-menu');
 const buttonEmailMeBigScreen = document.querySelector('.email-me-button-big-screen');
 const buttonEmailMeMiniScreen = document.querySelector('.email-me-button-mini-screen');
-const imageElement = document.querySelector('.image-container');
+const imageElement = document.querySelector('.image');
 
 
 setTimeout(() => {
